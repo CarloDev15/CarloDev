@@ -18,7 +18,7 @@
             </div>
         </div>
         <div class="flex justify-center items-center text-center pb-10">
-            <p class="text-2xl text-headline font-share_tech">© 2024. Developed by <span class="font-bold">Carlo</span> for Vue exam</p>
+            <p class="text-2xl text-headline font-share_tech">© 2024. Developed by <span class="font-bold">Carlo Caruso</span></p>
         </div>
     </div>
 </template>
