@@ -6,7 +6,7 @@
 
 **CarloDev** is a portfolio website developed with Vue.js as the final project for my Vue course exam. This site provides a fun overview of my journey as a developer, featuring humorous easter eggs that reflect my personality and development style. It’s a simple yet polished project, with three main pages and a fully responsive design.
 
-🔗 **Live Demo**: [CarloDev on Netlify](https://carlodev-vue.netlify.app/)
+🔗 **Live Demo**: [CarloDev Demo](https://carlodev-vue.netlify.app/)
 
 ## 🚀 Key Features
 
